@@ -2,7 +2,6 @@
 
 This project aims to predict housing prices using various regression models. The models are trained on a dataset containing housing features and are evaluated based on mean absolute error, mean squared error, and R-squared score.
 
-
 ## Setup and Installation
 
 1. **Clone the repository:**
@@ -36,6 +35,12 @@ This project aims to predict housing prices using various regression models. The
 - Select a model and enter the required features to predict the housing price.
 - View the prediction result on the results page.
 
+## Front End User Input Interface
+
+![Front End User Input Interface](https://github.com/vineet-kumar-tennessee/regression/blob/main/housing_price_prediction/front_end_images/front_end_input.png)
+
+This is how the front end user input interface looks like. The model will predict based on these user inputs.
+
 ## Evaluation
 
 - The evaluation results of the models are displayed on the `/results` page.
@@ -44,5 +49,3 @@ This project aims to predict housing prices using various regression models. The
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-
