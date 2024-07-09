@@ -2,6 +2,10 @@
 
 This project aims to predict housing prices using various regression models. The models are trained on a dataset containing housing features and are evaluated based on mean absolute error, mean squared error, and R-squared score.
 
+## Demo Video
+
+[Watch the demo video](https://github.com/vineet-kumar-tennessee/regression/blob/main/housing_price_prediction/front_end.wmv)
+
 ## Setup and Installation
 
 1. **Clone the repository:**
