@@ -4,7 +4,7 @@ This project aims to predict housing prices using various regression models. The
 
 ## Demo Video
 
-[Watch the demo video](https://github.com/vineet-kumar-tennessee/regression/blob/main/housing_price_prediction/front_end.wmv)
+[Watch the demo video](https://youtu.be/LU1fTtT395k)
 
 ## Setup and Installation
 
